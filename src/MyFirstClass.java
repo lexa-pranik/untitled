@@ -20,6 +20,7 @@ public class MyFirstClass {
         System.out.println((x>y) ? "YES" : "NO");
         String name ="ALEXEY";
         System.out.println("BRANCH");
+        System.out.println("Hello BRANCH");
         // большая буква - ссылочный тип, а маленькая - примитивный
         //ЧТо такой JDK
     }

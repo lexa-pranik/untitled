@@ -18,9 +18,10 @@ public class MyFirstClass {
         boolean result = x!=y;
         System.out.println((x<y) || (x>y));
         System.out.println((x>y) ? "YES" : "NO");
-        String name ="ALEXEY";
+        String name ="ALEXEsadasdasadasdasdasY";
         System.out.println("BRANCH");
         System.out.println("Hello BRANCH");
+        System.out.println("Hello BRANCHsadasdas");
         // большая буква - ссылочный тип, а маленькая - примитивный
         //ЧТо такой JDK
     }

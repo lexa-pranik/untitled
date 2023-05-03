@@ -21,6 +21,7 @@ public class MyFirstClass {
         String name ="ALEXEY";
         System.out.println("BRANCH");
         System.out.println("Hello BRANCH");
+        System.out.println(1+2);
         // большая буква - ссылочный тип, а маленькая - примитивный
         //ЧТо такой JDK
     }
